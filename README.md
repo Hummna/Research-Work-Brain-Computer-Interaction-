@@ -36,10 +36,17 @@ The project explores various machine learning models to predict arm movements ba
    - **Purpose**: Classifies arm movements based on similarity to neighboring EEG signal patterns.
    - **Performance**: Achieved an accuracy rate of X% in predicting arm movements.
 
+## Results
+Random Forest achieved the highest accuracy rate of 67.21% in predicting arm movements based on EEG signals. Detailed results and performance metrics for each model can be found in the respective sections above.
+
+<!DOCTYPE html>
+<html>
+<body>
 <h2 id="contact-information">Contact Information</h2>
   <p>For questions or collaboration, please contact: 
    <a href="malikhamna107@gmail.com">gmail</a>
-   <a href="https://www.linkedin.com/in/hamnamalik107/">Linkedin</a>
-  </p>
+   <a href="https://www.linkedin.com/in/hamnamalik107/">Linkedin</a> 
+</body>
+</html> 
 
 
