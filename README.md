@@ -1,4 +1,4 @@
-# EEG-Based Arm Movement Prediction using Machine Learning
+# EEG-Based Arm Movement Predictions.
 
 ## Overview
 
