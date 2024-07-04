@@ -18,7 +18,6 @@ The project investigates various machine learning models for predicting arm move
 
 1. **Support Vector Machines (SVM)**
    - **Purpose**: Classifies EEG signals into different arm movement categories.
-   - **Performance**: Achieved an accuracy rate of X%.
 
 2. **Random Forest**
    - **Purpose**: Uses ensemble learning to predict arm movements.
@@ -26,15 +25,12 @@ The project investigates various machine learning models for predicting arm move
 
 3. **Gradient Boosting**
    - **Purpose**: Boosts weak learners sequentially to enhance predictive accuracy.
-   - **Performance**: Achieved an accuracy rate of X%.
 
 4. **Logistic Regression**
    - **Purpose**: Models the probability of each arm movement class based on EEG features.
-   - **Performance**: Achieved an accuracy rate of X%.
 
 5. **K-Nearest Neighbors (KNN)**
    - **Purpose**: Classifies arm movements based on similarity to neighboring EEG signal patterns.
-   - **Performance**: Achieved an accuracy rate of X%.
 
 ## Results
 
