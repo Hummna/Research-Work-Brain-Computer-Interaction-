@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains research and code for EEG-based arm movement prediction using machine learning models. The research investigates global trends and gaps in assistive technology (AT) utilization, leveraging data from the World Health Organization (WHO) to identify areas for improvement. It then focuses on developing machine learning models for predicting right arm movements using EEG data collected from a Muse 2 headset.
+This repository contains the code for EEG-based arm movement prediction using machine learning models. The research investigates global trends and gaps in assistive technology (AT) utilization, leveraging data from the World Health Organization (WHO) to identify areas for improvement. It then focuses on developing machine learning models for predicting right arm movements using EEG data collected from a Muse 2 headset.
 
 ## Dataset
 
@@ -10,7 +10,7 @@ Data for predicting right arm movements was sourced from a Kaggle dataset collec
 
 ### Sample Dataset
 
-A sample dataset (`right_arm_movements.csv`) is included in this repository for testing purposes. This dataset contains pre-processed EEG signals and corresponding arm movement labels.
+A sample dataset (`ArmMovementDetection_Dataset.csv`) is included in this repository for testing purposes. This dataset contains pre-processed EEG signals and corresponding arm movement labels.
 
 ## Models Explored
 
@@ -36,7 +36,10 @@ The project explores various machine learning models to predict arm movements ba
    - **Purpose**: Classifies arm movements based on similarity to neighboring EEG signal patterns.
    - **Performance**: Achieved an accuracy rate of X% in predicting arm movements.
 
-## Code Structure
+<h2 id="contact-information">Contact Information</h2>
+  <p>For questions or collaboration, please contact: 
+   <a href="malikhamna107@gmail.com">gmail</a>
+   <a href="https://www.linkedin.com/in/hamnamalik107/">Linkedin</a>
+  </p>
 
-The code is organized as follows:
 
